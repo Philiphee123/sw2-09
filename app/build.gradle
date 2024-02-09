@@ -1,0 +1,15 @@
+plugins {
+    id "application"
+}
+
+
+repositories {
+     mavenCentral()
+}
+
+application{
+    mainClass = "primeiro_exemplo.Hello"
+}
+
+
+
